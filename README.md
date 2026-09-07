@@ -39,4 +39,27 @@ Watch out for these apperties(as one wrong change can go TERRIBLY WRONG!):
 
 |          | Appertie Type | Descriptions | Author|
 |:--------:|:-------------:|:------------:|:----:|
-| Settings | **`SYSTEM`**  | Don't remove this. This is required to change the system settings of the Device you find it on. |
+| Settings | **`SYSTEM`**  | Don't remove this. This is required to change the system settings of the Device you find it on. | **OScoder** |
+|  Import  | **`SYSTEM`(monofunctional)** | This is required to import apps that you might **happen to have** on your storage into AAP. You must **NEVER uninstall this app unless your willing to suffer the inability to get games' `.{OS}` files on AAP. | OScoder |
+| TBD | TBD | TBD | TBD |
+| TBD | TBD | TBD | TBD |
+
+System files are NOT bloat-ware. They are required. Currently, the rest are TBD(To Be Done) for more system apps in future are yet to come.
+
+This project is CLOSED-SOURCE, because I don't want anyone knowing about *the source code used* for:
+
+- `apk2appertie`
+- `xapk2appertie`
+- `abb2appertie`
+- `zip2appertie`: WOAH! this is only for certain logic fixes and rewrites in AAP, so be careful!
+
+But, only for `.usb`: An AAP USB which will be featured in AAP 1.5 UpperScript
+
+> AAP used to be an HTML zip filesystem untill the ANDROID JavaScript problem occurred. Because of this, we had to find a complicated way to gain file access and eventually had to exploit ***a mysterious JavaScript leak*(announced at Nexus Stack)** that could be friendly to both JavaScript and Java while still staying true to Java. We also had to implement a Unique API and it was very hard. But the Hardest part wasn't that I didn't know `@JavaScriptInterfaces`—it was the **Chicken Jockey Gold Rush that came when I had to learn binary and eventually implement **real binary translation**.
+> - OScoder
+
+> “Trust me, NO AI could do that. If it outputted code, it would “use” `hexadecimal`s instead of **raw binary** which **directly contradicts it's non-human form**. But, everyone was there *back in the day* so I *had to take the hard route*.”
+> - OScoder
+
+> “It takes a lot of courage and patience to code in binary! Especially those foolish experts who like to show off their _coding skills_! It's not that binary is hard, it's just that experts like to strip people of their patience sometime, and it hits Very hard!”
+> -OScoderCBT/OScoderAI
