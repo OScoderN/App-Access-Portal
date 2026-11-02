@@ -7,7 +7,10 @@ But the one major problem is that:
 
 You can't get access you want anymore. Living in a poor family with lots of budget phones but **No Samsung Galaxy S phones or Windows Laptops for you to own and use?** Well, in the market days, that's how it was. You would cry when someone got a new laptop or XBOX. And now? Not anymore!
 
-AAP — App Access Portal is a Portal that allows you to get all the App Access that could ever exist in one place. No internet? You can even play offline windows games on an android device and bypass the **walled garden of Operating Systems**! You can now get *that* phone on an old phone and find out that the software works without *any problems*!
+AAP — App Access Portal is a Portal that allows you to get all the App Access that could ever exist in one place. No internet? You can even play offline windows games on an android device and bypass the **walled garden of Operating Systems**! You can now get *that* phone on an old phone and find out that the software works without *any problems*! *Any* day, *any* time! That means:
+
+0 paywalls
+100% automation, automation.
 
 ***
 
@@ -63,3 +66,13 @@ But, only for `.usb`: An AAP USB which will be featured in AAP 1.5 UpperScript
 
 > “It takes a lot of courage and patience to code in binary! Especially those foolish experts who like to show off their _coding skills_! It's not that binary is hard, it's just that experts like to strip people of their patience sometime, and it hits Very hard!”
 > -OScoderCBT/OScoderAI
+
+
+# CHANGELOG
+
+v0.6.0 — Pre-Release (**Current Release**)
+- [x]The basic structure
+- [x] No functionality to be found besides the entry
+- [x] Sessions and Apperties still under construction
+- [] Memory System
+- [] Translation pipeline
